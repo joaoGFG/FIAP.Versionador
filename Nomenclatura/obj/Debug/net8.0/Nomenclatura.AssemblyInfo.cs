@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Nomenclatura")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+276780f1abef3275d2116583e6aaea6d87085eb1")]
 [assembly: System.Reflection.AssemblyProductAttribute("Nomenclatura")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Nomenclatura")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
